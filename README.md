@@ -13,8 +13,3 @@ A lightweight and secure command-line tool for encrypting and decrypting text us
 - 🔑 **Password-Based Key Derivation** - Secure password handling
 - 🌍 **Cross-Platform** - Works on Windows, macOS, and Linux
 
-## 📦 Installation
-
-### Using Go
-```bash
-go install github.com/yourusername/cryptotext@latest
