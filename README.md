@@ -2,7 +2,7 @@
 🔐 Secure text encryption/decryption tool with AES-256-GCM
 # 🔐 CryptoText - Text Encryption Tool
 
-A lightweight and secure command-line tool for encrypting and decrypting text using AES-256-GCM encryption.
+A lightweight and secure tool for encrypting and decrypting text using AES-256-GCM encryption.
 
 ## ✨ Features
 
